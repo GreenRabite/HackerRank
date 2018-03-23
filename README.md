@@ -10,18 +10,8 @@ This repo will be a walkthrough of my thoughts and processes in tackling each of
 5. Solve the question
 ```
 
-|#  | Problem             | Difficulty    | Ruby           | JavaScript |
-|-  | :------------------ | :------------ | :------------- | :----------|
-|001| Two Sum             | `EASY`        | `84.54%`       | `97.21%`   |
-|007| Reverse Integer     | `EASY`        | `66.41%`       | `95.70%`   |
-|796| Rotate String       | `EASY`        | `47.06%`       | `34.83%`   |
-|344| Reverse String      | `EASY`        | `45.00%`       | `90.32%`   |
-|454| 4Sum II             | `MEDIUM`      | `100.00%`      | `63.46%`   |
-|371| Sum of Two Integers | `EASY`        | `XX.XX%`       | `XX.XX%`   |
-|350| Intersect of 2 Arra | `EASY`        | `100.00%`      | `99.46%`   |
-|387| First Uniq Charactr | `EASY`        | `79.07%`       | `68.87%`   |
-|395| Longest Substring k | `MEDIUM`      | `XX.XX%`       | `XX.XX%`   |
-|328| Odd Even Linked List| `MEDIUM`      | `58.82%`       | `39.00%`   |
-|283| Move Zeros          | `EASY`        | `55.88%`       | `58.04%`   |
-|384| Shuffle Arrays      | `MEDIUM`      | `76.47%`       | `51.16%`   |
-|380| Insert Delete Randm | `MEDIUM`      | `55.00%`       | `32.00%`   |
+|Category  | Problem             | Difficulty    | Language       | Success Rate |
+|--------  | :------------------ | :------------ | :------------- | :----------- |
+|Algorithms| Solve Me First      | `EASY`        | `RUBY`         | `97.37%`     |
+|Algorithms| Simple Array Sum    | `EASY`        | `JAVASCRIPT`   | `96.02%`     |
+|Algorithms| Compare the Triples | `EASY`        | `JAVASCRIPT`   | `XX.XX%`     |
