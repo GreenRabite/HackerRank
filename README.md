@@ -10,8 +10,10 @@ This repo will be a walkthrough of my thoughts and processes in tackling each of
 5. Solve the question
 ```
 
-|Category  | Problem             | Difficulty    | Language       | Success Rate |
-|--------  | :------------------ | :------------ | :------------- | :----------- |
-|Algorithms| Solve Me First      | `EASY`        | `RUBY`         | `97.37%`     |
-|Algorithms| Simple Array Sum    | `EASY`        | `JAVASCRIPT`   | `96.02%`     |
-|Algorithms| Compare the Triples | `EASY`        | `JAVASCRIPT`   | `XX.XX%`     |
+|CAT | Problem             | Difficulty    | Language       | Success Rate |
+|--- | :------------------ | :------------ | :------------- | :----------- |
+|ALGO| Solve Me First      | `EASY`        | `RUBY`         | `97.37%`     |
+|ALGO| Simple Array Sum    | `EASY`        | `JAVASCRIPT`   | `96.02%`     |
+|ALGO| Compare the Triples | `EASY`        | `JAVASCRIPT`   | `94.42%`     |
+|ALGO| A Very Big Sum      | `EASY`        | `JAVASCRIPT`   | `XX.XX%`     |
+|ALGO| Diagonal Difference | `EASY`        | `JAVASCRIPT`   | `XX.XX%`     |
