@@ -15,5 +15,7 @@ This repo will be a walkthrough of my thoughts and processes in tackling each of
 |ALGO| Solve Me First      | `EASY`        | `RUBY`         | `97.37%`     |
 |ALGO| Simple Array Sum    | `EASY`        | `JAVASCRIPT`   | `96.02%`     |
 |ALGO| Compare the Triples | `EASY`        | `JAVASCRIPT`   | `94.42%`     |
-|ALGO| A Very Big Sum      | `EASY`        | `JAVASCRIPT`   | `XX.XX%`     |
-|ALGO| Diagonal Difference | `EASY`        | `JAVASCRIPT`   | `XX.XX%`     |
+|ALGO| A Very Big Sum      | `EASY`        | `JAVASCRIPT`   | `98.71%`     |
+|ALGO| Diagonal Difference | `EASY`        | `JAVASCRIPT`   | `96.21%`     |
+|ALGO| Plus Minus          | `EASY`        | `JAVASCRIPT`   | `98.22%`     |
+|ALGO| Staircase           | `EASY`        | `RUBY`         | `98.22%`     |
