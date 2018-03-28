@@ -21,3 +21,4 @@ This repo will be a walkthrough of my thoughts and processes in tackling each of
 |ALGO| Staircase           | `EASY`        | `RUBY`         | `98.22%`     |
 |ALGO| Mini-Max Sum        | `EASY`        | `RUBY`         | `92.59%`     |
 |ALGO| Birthday Cake Candle| `EASY`        | `JAVASCRIPT`   | `89.06%`     |
+|ALGO| Grading Students    | `EASY`        | `JAVASCRIPT`   | `96.94%`     |

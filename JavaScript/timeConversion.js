@@ -42,5 +42,4 @@ function timeConversion(s) {
         return time_arr.join(":");
       }
     }
-
 }
